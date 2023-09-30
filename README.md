@@ -159,7 +159,7 @@ If the RestaurantPizza is not created successfully, return the following JSON da
 To test your endpoints, you can run the Flask server and use Postman or any other HTTP client to make requests.
 
 ```bash
-python run.py
+python app.py
 ```
 
 Make sure to set up your database and configuration as needed for testing.
